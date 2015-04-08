@@ -15,7 +15,7 @@ Mini tornado server to provide multiple iPython notebook kernels from a single m
 
 ## Project Support
 
-The jTraML project is grateful for the support by:
+The iPython notebook server project is grateful for the support by:
 
 | Compomics | VIB | Ghent University|
 |:--:|:--:|:--:|
